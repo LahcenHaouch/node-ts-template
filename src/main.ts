@@ -1,3 +1,1 @@
-import { name } from './blabla'
-
-console.log(`Hello ${name}`)
+console.log('Hello Lahcen')
